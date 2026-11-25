@@ -1,0 +1,4 @@
+Character models: Quaternius — Ultimate Modular Men / Women, CC0 1.0. Source: https://quaternius.com/packs/ultimatemodularcharacters.html ; GLB mirror: https://github.com/trebeljahr/quaternius-showcase
+Car: Kenney Car Kit, CC0 1.0. Source: https://kenney.nl/assets/car-kit ; GLB mirror: https://github.com/Papyszoo/CC0-Public-Domain-Models
+Engine: Three.js r160, MIT. https://github.com/mrdoob/three.js
+Character choreography: custom procedural skeletal retargeting.
